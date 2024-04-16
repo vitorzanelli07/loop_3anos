@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual foi o único piloto a conquistar a Triplice Coroa do Automobilismo ?");
 
     
-    if (respostaTime.toLowerCase() === "Graham Hill") {
+    if (respostaTime.toLowerCase() === "graham hill") {
       alert("Isso mesmo! Graham Hill foi o único piloto da historia a conquistar a Triplice Coroa");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
