@@ -38,3 +38,10 @@ h2 {font-size: 170%}
 h2 {color: black}
 h2 {text-align: center;}
 
+:root {
+    --cor-de-fundo: rgb(0, 0, 0);
+    --branco: #69738800;
+    --botao-ativo: #fa8e02;
+    --botao-inativo: rgba(217, 255, 0, 0.959);
+    --texto-fundo: rgb(255, 0, 0);
+
